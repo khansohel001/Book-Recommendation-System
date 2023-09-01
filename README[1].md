@@ -1,34 +1,3 @@
-### Metadata
-
-| File Name    | File Type |       Description |  Link   |
-| --------- | ------- | -------------| ----------|
-| Book_Recommendation_System.ipynb     |    Colab Notebook     |  	Contains code for ML model implementation of the project    |    [View](https://githubtocolab.com/yahya-ansariii/BookRecommender/blob/master/Book_Recommendation_System.ipynb)    |
-| Books.csv     |    CSV     |  A CSV file containing books data used in the project    |    [View](https://github.com/yahya-ansariii/BookRecommender/blob/master/Books.csv)    |
-| Ratings.csv     |    CSV     |  A CSV file containing ratings data used in the project    |    [View](https://github.com/yahya-ansariii/BookRecommender/blob/master/Ratings.csv)    |
-| Users.csv     |    CSV     |  A CSV file containing users data used in the project    |    [View](https://github.com/yahya-ansariii/BookRecommender/blob/master/Users.csv)    |
-| README.md    |    Markdown     |  The README file for the project    |    [View](https://github.com/yahya-ansariii/BookRecommender/blob/master/README.md)    |
-| banner.png     |    Image     |  	An image used in the readme of the project    |    [View](https://github.com/yahya-ansariii/BookRecommender/blob/master/banner.png)    |
-| demo.gif     |    GIF Animation     |  A GIF animation to display usage of deployed website    |    [View](https://github.com/yahya-ansariii/BookRecommender/blob/master/demo.gif)    |
-
-# Book Recommendation System - Unsupervised ML
-
-**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/74677315304391/)
-
-![banner](banner.png)
-
-<font size=1>Image Courtesy: https://www.vecteezy.com/members/alenadumanchuk535799</font>
-
-Check the actual **deployment of the model** on a live server below.
-- [**Deployment**](https://bookrec.pythonanywhere.com/)
-
----
-
-## Deployment Demo
-
-![demo](demo.gif)
-
----
-
 ## Problem Statement
 
 During the last few decades, with the rise of Youtube, Amazon, Netflix, and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys.
@@ -84,4 +53,4 @@ The project demonstrated the potential of these techniques to generate personali
 
 ## Author
 
-- [Mohammed Yahya Ansari](https://www.linkedin.com/in/yahya-ansari/)
+- [Mohmmad Sohel](https://www.linkedin.com/in/mohmmad-sohel-680793252/)
